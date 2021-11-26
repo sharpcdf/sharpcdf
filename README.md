@@ -1,3 +1,6 @@
-A programmer from the U.S. that likes to code as a hobby. I started through HTML/CSS, lua, and then made my way to where I am now(c/c++, golang, nim mainly). I also just like to learn programming languages when I'm bored.
+I like making random bullshit that doesn't contribute to anything
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csharpdf)](https://github.com/csharpdf/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csharpdf&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csharpdf&theme=tokyonight&layout=compact)](https://github.com/csharpdf/github-readme-stats)
+
+Discord: sharpcdf#1672
