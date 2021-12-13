@@ -11,5 +11,5 @@ I like making random bullshit that doesn't contribute to anything
   </tr>
   <tr>
     <td><p>sharpcdf#1672</p></td>
-  </td>
+  </tr>
 </table>
