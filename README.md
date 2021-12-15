@@ -1,4 +1,4 @@
-I like making random bullshit that doesn't contribute to anything
+I like making random bullshit that doesn't contribute to anything (and browsing GitHub when I'm bored)
 <table>
   <tr>
     <th>GitHub Statistics</th>
