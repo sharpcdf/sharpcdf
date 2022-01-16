@@ -8,6 +8,6 @@ I like making random bullshit that doesn't contribute to anything (and browsing 
   </tr>
   <tr>
     <td><image src="https://github-readme-stats.vercel.app/api?username=csharpdf&show_icons=true&theme=tokyonight" alt="GitHub Stats"</td>
-    <td><image src="https://github-readme-stats.vercel.app/api/top-langs/?username=csharpdf&theme=tokyonight&layout=compact&langs_count=10" alt="Top Programming Languages"</td>
+    <td><image src="https://github-readme-stats.vercel.app/api/top-langs/?username=csharpdf&theme=tokyonight&layout=compact&langs_count=10&exclude_repo=csharpdf.github.io" alt="Top Programming Languages"</td>
   </tr>
 </table>
