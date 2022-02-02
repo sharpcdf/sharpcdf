@@ -2,7 +2,7 @@
 
 I like making random bullshit that doesn't contribute to anything (and browsing GitHub when I'm bored)
 
-- I use D for as many projects as I can because I love its syntax and it's interop with C and C++(But I typically use it for more low level projects)
+- I use D for as many projects as I can because I love its syntax, overrall design, its interop with C and C++(But I typically use it for more low level projects)
 - I use Nim and sometimes Go for general, high level projects because of the amount of libraries they have and I think their syntax is simple and nice(and Nim can compile to C and Javascript, still useful even if the resulting code is unreadable lol)
 - I plan on using Haxe to make games since I don't really want to learn C#, GDScript, or similar
 - I still know but rarely(sometimes never) use a few languages like Python, C/C++, Lua, etc.
