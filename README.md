@@ -1,6 +1,6 @@
-[![Typing Description](https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=cool+bro;but+who+are+you;seriously;i+like+to+make+random+apps;thats+about+it)]()
+[![Typing Description](https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=i+like+to+make+random+apps;thats+about+it)]()
 
-I like making random bullshit that doesn't contribute to anything (and browsing GitHub when I'm bored)
+I like making some random things that come to my mind, and I love learning and looking at programming languages and what people make with them, especially newer ones like Nim and Zig.
 
 I use [D](https://dlang.org), [Go](https://go.dev), and [Odin](https://odin-lang.org).
 <table>
