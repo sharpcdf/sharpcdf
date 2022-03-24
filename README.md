@@ -1,6 +1,6 @@
 [![Typing Description](https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=i+like+to+make+random+apps;thats+about+it)]()
 
-I like making some random things that come to my mind, and I love learning and looking at programming languages and what people make with them, especially newer ones like Nim and Zig.
+I like making some random things that come to my mind, and I love learning and looking at programming languages and what people make with them, especially newer languages like Nim and Zig.
 
 I use [D](https://dlang.org), [Go](https://go.dev), and [Odin](https://odin-lang.org), but I used to use a lot of other ones like Nim, Python, C++, and Lua.
 
