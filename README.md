@@ -2,7 +2,7 @@
 
 I like making some random things that come to my mind, and I love learning and looking at programming languages and what people make with them, especially newer languages like Nim and Zig.
 
-I use [D](https://dlang.org), [Go](https://go.dev), and [Odin](https://odin-lang.org), but I used to use a lot of other ones like Nim, Python, C++, and Lua.
+I use [D](https://dlang.org), [Go](https://go.dev), and [Odin](https://odin-lang.org), and I'm learning [Typescript](https://typescriptlang.org)
 
 I work in Windows, sometimes using WSL2, with Visual Studio Code and Gitpod
 <table>
