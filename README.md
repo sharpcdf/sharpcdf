@@ -4,7 +4,7 @@ I like making some random things that come to my mind, and I love learning and l
 
 I use [D](https://dlang.org), [Go](https://go.dev), and [Odin](https://odin-lang.org), and I'm learning [Typescript](https://typescriptlang.org)
 
-I work in Windows, sometimes using WSL2, with Visual Studio Code and Gitpod
+I work in Windows using WSL2, with Visual Studio Code and Gitpod
 <table>
   <tr>
     <th>GitHub Statistics</th>
