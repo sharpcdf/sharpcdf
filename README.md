@@ -1,15 +1,4 @@
-[![Typing Description](https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=i+like+to+make+random+apps;thats+about+it)]()
+maybe ill make a game one day
 
-I like making some random things that come to my mind, and I love learning and looking at programming languages and what people make with them
 
-I work in Windows using WSL2, with Visual Studio Code and Gitpod
-<table>
-  <tr>
-    <th>GitHub Statistics</th>
-    <th>Top Programming Languages</th>
-  </tr>
-  <tr>
-    <td><image src="https://github-readme-stats.vercel.app/api?username=csharpdf&show_icons=true&theme=tokyonight" alt="GitHub Stats"</td>
-    <td><image src="https://github-readme-stats.vercel.app/api/top-langs/?username=csharpdf&theme=tokyonight&layout=compact&langs_count=10&exclude_repo=csharpdf.github.io" alt="Top Programming Languages"</td>
-  </tr>
-</table>
+<image src="https://github-readme-stats.vercel.app/api/top-langs/?username=csharpdf&theme=tokyonight&layout=compact&langs_count=10&exclude_repo=csharpdf.github.io" alt="Top Programming Languages"></image>
